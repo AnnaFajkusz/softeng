@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u38Hafp6thY60dpDr58Q7X28NtwPvjX+2mS1C6CpzrY=",
+  "Hash": "xwNBit3j66z8CSDV5y+bYNe/YRQeIWNt2FVP7aFRCio=",
   "Source": "9gyak_FTSF8W",
   "BasePath": "_content/9gyak_FTSF8W",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\ftsf8w\\Source\\Repos\\softeng\\9gyak_FTSF8W\\wwwroot\\hajo.html",
+      "SourceId": "9gyak_FTSF8W",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ftsf8w\\Source\\Repos\\softeng\\9gyak_FTSF8W\\wwwroot\\",
+      "BasePath": "_content/9gyak_FTSF8W",
+      "RelativePath": "hajo.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hajo.html"
+    },
     {
       "Identity": "C:\\Users\\ftsf8w\\Source\\Repos\\softeng\\9gyak_FTSF8W\\wwwroot\\index.html",
       "SourceId": "9gyak_FTSF8W",
