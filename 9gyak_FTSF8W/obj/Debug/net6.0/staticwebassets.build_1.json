@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "ioTWCfkYch8XuBvSNdR8/Z0NA1W3AT4LSz8OOvlY13I=",
+  "Source": "9gyak_FTSF8W",
+  "BasePath": "_content/9gyak_FTSF8W",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "9gyak_FTSF8W\\wwwroot",
+      "Source": "9gyak_FTSF8W",
+      "ContentRoot": "C:\\Users\\ftsf8w\\source\\repos\\9gyak_FTSF8W\\wwwroot\\",
+      "BasePath": "_content/9gyak_FTSF8W",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ftsf8w\\source\\repos\\9gyak_FTSF8W\\wwwroot\\index.html",
+      "SourceId": "9gyak_FTSF8W",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ftsf8w\\source\\repos\\9gyak_FTSF8W\\wwwroot\\",
+      "BasePath": "_content/9gyak_FTSF8W",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ftsf8w\\source\\repos\\9gyak_FTSF8W\\wwwroot\\jokes.html",
+      "SourceId": "9gyak_FTSF8W",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ftsf8w\\source\\repos\\9gyak_FTSF8W\\wwwroot\\",
+      "BasePath": "_content/9gyak_FTSF8W",
+      "RelativePath": "jokes.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jokes.html"
+    }
+  ]
+}
